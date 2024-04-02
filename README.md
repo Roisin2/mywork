@@ -6,7 +6,7 @@
     This notebook contains my analysis of the famous Palmer Penguins Data Set.
     It was a project set for my first Module in Data Analytics for ATU.
 
-    The dataset was sourced from
+    The dataset was sourced from ("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv").
 
 ## Use of this project.
     This project is useful because it utilizes the methods needed to give analysis on data, through code and images of graphs.
