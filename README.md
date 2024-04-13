@@ -1,6 +1,6 @@
 # Palmer Penguins
 
- ![Penguins] (https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png).
+ ![Penguins](https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png).
 
  ## About This Project.
     This notebook contains my analysis of the famous Palmer Penguins Data Set.
