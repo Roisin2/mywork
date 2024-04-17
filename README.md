@@ -9,11 +9,14 @@
 
     The dataset was sourced from ("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv").
 
-The Palmer Penguins are 3 species of penguins: Adélie, Chinstrap, and Gentoo which were observed on islands near the Palmer Station, Antarctica. The data was collected over a period from 2007 to 2009 by Kristen Gorman. She was working with the Palmer Station Long Term Ecological Research Program.
+The Palmer Penguins are 3 species of penguins: Adélie, Chinstrap, and Gentoo which were observed on islands near the Palmer Station, Antarctica. The data was collected over a period from 2007 to 2009 by Kristen Gorman.
+ [Dr.Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
+ [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), works for the [Long Term Ecological Research Network](https://lternet.edu/).
+
  The data set includes the measurements of 344 penguins.There are eight variables. Species that I have mentioned, islands, bill length and depth, flipper length, body mass, sex and year.
 The 3 categorical values are species:3, island :3 and sex :2. There are 2 continuous variables which are bill_length_mm: number showing length, bill_depth_mm: number showing depth. The flipper_length_mm: integer, showing length and body_mass_g: integer, showing mass in grams. Year is a discrete variable integer also.
-
 I have concentrated on the bill length and depth.
+
 Included in this work are scatterplots, histograms, a barchart and a box plot.
 I created a scatterplot showing with color and shapes the visual pattern apparent between the Bill Length and Depth with also the flipper length.
 The diamonds in the color magenta show the relationship with Bill Length and Bill Depth. They are tightly bunched in an almost horizontal line.
