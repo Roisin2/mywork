@@ -33,7 +33,8 @@ The stunning art work linked is by the talented Allison Horst.
 ## Getting Started
 
     The user will need to have Jupyter Notebook Editor for Visual Studio Code (https://code.visualstudio.com/) in order to clone the repository.
-     The code used is python, so Anaconda (https://www.anaconda.com/download) is my recommendation as it has so many built in functions such as Pandas, Matplotlib and Numpy and Seaborn.
+     The code used is python, so Anaconda (https://www.anaconda.com/download) is my recommendation as it has so many built in functions such as Pandas, Matplotlib and Numpy and Seaborn. Also at the last moment I imported Scipy to help with a Best Fit Line on a plot.
+     
      These Libraries were the first thing I imported as they are most useful for storing, visually showing and carrying out mathematical operations.
 
      "pandas is a fast, powerful, flexible and easy to use open source data analysis and manipulation tool, built on top of the Python programming language."
@@ -48,6 +49,8 @@ The stunning art work linked is by the talented Allison Horst.
     "Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics."
     (https://seaborn.pydata.org/)
 
+    "SciPy provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems."
+    (https://scipy.org/)
 I used [https://openincolab.com/](https://openincolab.com/). To generate the following link.
 It opens the ` .ipnb`notebook in [Google Colab](https://colab.research.google.com/)
 
