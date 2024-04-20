@@ -14,7 +14,7 @@ The Palmer Penguins are 3 species of penguins: Adélie, Chinstrap, and Gentoo wh
  [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), works for the [Long Term Ecological Research Network](https://lternet.edu/).
 
  The data set includes the measurements of 344 penguins.There are eight variables. Species that I have mentioned, islands, bill length and depth, flipper length, body mass, sex and year.
-The 3 categorical values are species:3, island :3 and sex :2. There are 2 continuous variables which are bill_length_mm: number showing length, bill_depth_mm: number showing depth. The flipper_length_mm: integer, showing length and body_mass_g: integer, showing mass in grams. Year is a discrete variable integer also.
+The 3 categorical values are species:3, island :3 and sex :2. There are 4 continuous variables which are bill_length_mm: number showing length, bill_depth_mm: number showing depth. The flipper_length_mm: integer, showing length and body_mass_g: integer, showing mass in grams. Year is a discrete variable integer also.
 I have concentrated on the bill length and depth.
 
 Included in this work are scatterplots, histograms, a barchart and a box plot.
