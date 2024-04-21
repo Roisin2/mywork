@@ -11,8 +11,9 @@
 
 I used [https://openincolab.com/](https://openincolab.com/). To generate the following link.
 It opens the `penguins.ipnb`notebook in [Google Colab](https://colab.research.google.com/)
-
 <a target="_blank" href="https://colab.research.google.com/github/Roisin2/mywork/blob/main/penguins.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 The Palmer Penguins are 3 species of penguins: Adélie, Chinstrap, and Gentoo which were observed on islands near the Palmer Station, Antarctica. The data was collected over a period from 2007 to 2009 by Kristen Gorman.
  [Dr.Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
