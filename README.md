@@ -29,6 +29,8 @@ The diamonds in the color magenta show the relationship with Bill Length and Bil
 The hexagons in the color coral show the relationship with Bill Length and Flipper Length. There are some outliers visable here.
 The stars in the color aqua show the relationship with Bill Depth and Flipper Length. They have two small groupings.
 
+To finish I looked at Bill Depth and Bill length and checked for correlation. there is a scatter plot with a best fit line.I believe they are closely correlated.
+
 The stunning art work linked is by the talented Allison Horst.
  ![penguin bill](image.png)
 
