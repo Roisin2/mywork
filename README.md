@@ -9,6 +9,11 @@
 
     The dataset was sourced from ("https://raw.githubusercontent.com/mwaskom/seaborn-data/master/penguins.csv").
 
+I used [https://openincolab.com/](https://openincolab.com/). To generate the following link.
+It opens the `penguins.ipnb`notebook in [Google Colab](https://colab.research.google.com/)
+
+<a target="_blank" href="https://colab.research.google.com/github/Roisin2/mywork/blob/main/penguins.ipynb">
+
 The Palmer Penguins are 3 species of penguins: Adélie, Chinstrap, and Gentoo which were observed on islands near the Palmer Station, Antarctica. The data was collected over a period from 2007 to 2009 by Kristen Gorman.
  [Dr.Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php)
  [Palmer Station, Antarctica LTER](https://pallter.marine.rutgers.edu/), works for the [Long Term Ecological Research Network](https://lternet.edu/).
@@ -51,8 +56,7 @@ The stunning art work linked is by the talented Allison Horst.
 
     "SciPy provides algorithms for optimization, integration, interpolation, eigenvalue problems, algebraic equations, differential equations, statistics and many other classes of problems."
     (https://scipy.org/)
-I used [https://openincolab.com/](https://openincolab.com/). To generate the following link.
-It opens the ` .ipnb`notebook in [Google Colab](https://colab.research.google.com/)
+
 
 ## Getting help
 
